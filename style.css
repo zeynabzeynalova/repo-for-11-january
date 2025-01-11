@@ -1,0 +1,50 @@
+
+}
+.CodeMirror-scroll {
+    overflow: scroll !important;
+    margin-bottom: -30px;
+    margin-right: -30px;
+    padding-bottom: 30px;
+    height: 100%;
+    outline: none;
+    position: relative;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+.CodeMirror.cm-s-default {
+    line-height: normal;
+    padding: 4px;
+    height: 100%;
+    width: 100%;
+}
+.CodeMirror {
+    font-family: Consolas, Menlo, monospace;
+    font-size: 15px;
+    height: 300px;
+    color: black;
+}
+body {
+    color: #000000;
+    margin: 0px;
+    font-size: 100%;
+}
+html, body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
