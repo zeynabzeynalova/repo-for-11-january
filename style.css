@@ -1,18 +1,27 @@
 *{
-    margin: 3px;
-    padding: 2px;
-    box-shadow: black;
+    margin: 0;
+    padding: 0;
 }
 
-div{
+
+.maincontainer{
+padding: 16px;
+border: 1px solid red;
+}
+h2{
+    margin: 16px 0;
+}
+.thesecondcontainer{
     width: 50%;
+    box-shadow: ;
 }
-
-img{
+.img{
     width: 100%;
 }
- 
-.B{
+.p{
     text-align: center;
+}
+.thetirdcontainer{
+    padding: 16px 0;
 }
 
